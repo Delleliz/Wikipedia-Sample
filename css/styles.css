@@ -1,10 +1,20 @@
-header {
-	background : red ;
+/* COLOR PALLETTE 
+1st #1D132F
+2nd #005869
+3rd #FC5044
+4th #D9DBC7
+5th #7BB8C3
+*/
+
+body {
+	background : url("../img/wet_snow.png"); 
+	font-family: 'Bubbler One', sans-serif;
 }
 
-nav {
-	background : green ;
+h1 {
+	color : #1D132F ;
 }
+
 
 
 
