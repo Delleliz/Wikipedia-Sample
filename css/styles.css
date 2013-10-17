@@ -7,12 +7,19 @@
 */
 
 body {
-	background : url("../img/wet_snow.png"); 
+	background : url("../img/sprinkles_@2x.png"); 
 	font-family: 'Bubbler One', sans-serif;
 }
 
-h1 {
+h1, h3 {
 	color : #1D132F ;
+	text-transform: uppercase;
+	border-bottom: 10px solid black;
+}
+
+
+img {
+	
 }
 
 
